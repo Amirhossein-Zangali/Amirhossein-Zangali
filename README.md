@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Amirhossein Zangali.
+- 👀 I’m interested in Programing.
+- 🌱 I’m currently learning PHP.
